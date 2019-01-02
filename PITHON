@@ -1,0 +1,8 @@
+# For current version numbers below, see 
+# https://github.com/box/box-python-sdk#installing
+
+# Install via pip
+$ pip install boxsdk
+
+# If using JWT auth, also install JWT dependencies
+$ pip install boxsdk[jwt]
