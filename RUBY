@@ -1,0 +1,8 @@
+# Add the following to your gemfile
+gem 'boxr'
+
+# Then execute the following from a terminal / command prompt
+$ bundle
+
+# Or install yourself from a terminal / command prompt
+$ gem install boxr
